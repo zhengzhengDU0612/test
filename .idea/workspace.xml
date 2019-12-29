@@ -38,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager">
     <configuration name="PtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -114,14 +114,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="477" y="0" key="CommitChangelistDialog2" timestamp="1577628788998">
+    <state x="477" y="0" key="CommitChangelistDialog2" timestamp="1577629613344">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577628788998" />
-    <state x="643" y="79" key="FileChooserDialogImpl" timestamp="1577628691067">
+    <state x="477" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577629613344" />
+    <state x="643" y="79" key="FileChooserDialogImpl" timestamp="1577629700452">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="643" y="79" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577628691067" />
+    <state x="643" y="79" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577629700452" />
     <state width="1237" height="389" key="GridCell.Tab.0.bottom" timestamp="1577628241296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
